@@ -19,6 +19,10 @@ choices like FOSElasticaBundle and Doctrine DBAL is possible.
 
 [Visit the documentation with extensive code samples](https://omines.github.io/datatables-bundle/).
 
+## Command
+Command to generate datatable skeleton with reference to the omines datatable documentation
+> php bin/console datatables:generate
+
 ## Support
 
 Unless you are highly confident your issue stems from a shortcoming of this bundle and needs the original developers
