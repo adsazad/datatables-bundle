@@ -21,7 +21,7 @@ choices like FOSElasticaBundle and Doctrine DBAL is possible.
 
 ## Command
 Command to generate datatable skeleton with reference to the omines datatable documentation
-> php bin/console datatables:generate
+> `php bin/console datatables:generate`
 
 ## Support
 
